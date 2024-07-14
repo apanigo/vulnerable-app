@@ -1,0 +1,47 @@
+[33mcommit 38d83ca0c1f196c827ca0c5f2f90456cc9abd67f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: User <parrot@localhost.localdomain>
+Date:   Sun Jul 14 07:06:25 2024 +0100
+
+    Estilos en la app
+
+[33mcommit a2a0550454a9dc51651146ec61daf3e2afd2d1c6[m
+Author: User <parrot@localhost.localdomain>
+Date:   Sun Jul 14 07:05:44 2024 +0100
+
+    Un gato hermoso
+
+[33mcommit 07d7a7772211fc2aaeb76ff7e8c472ccb387b11d[m
+Author: User <parrot@localhost.localdomain>
+Date:   Sun Jul 14 07:01:01 2024 +0100
+
+    Update app and hello
+
+[33mcommit 9feee612ac7eaa54d5671fe1059825edd4209371[m
+Author: User <parrot@localhost.localdomain>
+Date:   Sun Jul 14 06:55:22 2024 +0100
+
+    Docker compose file
+
+[33mcommit de34002093b7c1f382cd424de73b21e165d74098[m
+Author: User <parrot@localhost.localdomain>
+Date:   Sun Jul 14 06:52:17 2024 +0100
+
+    Dockerfile file
+
+[33mcommit 427e4c5aa3dd686bd640a7c0b573f2be10c401b5[m
+Author: User <parrot@localhost.localdomain>
+Date:   Sun Jul 14 06:50:54 2024 +0100
+
+    Requirements file
+
+[33mcommit 4e69101e1642d10cad38c75396d22ae2dedec3b2[m
+Author: User <parrot@localhost.localdomain>
+Date:   Sun Jul 14 06:49:37 2024 +0100
+
+    First commit
+
+[33mcommit 75ffb414fdbba1dc644c420447599f30576264bb[m
+Author: apanigo <80857805+apanigo@users.noreply.github.com>
+Date:   Sun Jul 14 05:40:56 2024 +0000
+
+    Initial commit
